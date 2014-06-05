@@ -24,6 +24,6 @@ How to use it via Composer
     "repositories": [
         {
             "type": "vcs",
-            "url": "http://shehabic.github.com/Language_Tools"
+            "url": "https://github.com/shehabic/LanguageTools"
         }
     ],
