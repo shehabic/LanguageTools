@@ -14,3 +14,16 @@ How to use BijoyToUnicodeConverter
 
     $bijoyToUnicodeConverter = new BijoyToUnicodeConverter();
     $utf8String = $bijoyToUnicodeConverter->convert("Bijoy String");
+
+How to use it via Composer
+==========================
+
+    "require": {
+        "LanguageTools": "*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://shehabic.github.com/Language_Tools"
+        }
+    ],
