@@ -1,0 +1,13 @@
+{
+    "name": "LanguageTools",
+    "type": "library",
+    "description": "Language Tools",
+    "homepage": "http://shehabic.github.com/Language_Tools",
+    "require": {
+        "php": ">=5.3",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-0": {"LanguageTools": ""}
+    }
+}
