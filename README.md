@@ -11,3 +11,6 @@ This is a tiny bit cleaner and object oriented version of a procedural code to c
 
 How to use BijoyToUnicodeConverter
 ==================================
+
+    $bijoyToUnicodeConverter = new BijoyToUnicodeConverter();
+    $utf8String = $bijoyToUnicodeConverter->convert("Bijoy String");
